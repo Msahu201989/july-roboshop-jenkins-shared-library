@@ -1,0 +1,1 @@
+# july-roboshop-jenkins-shared-library
